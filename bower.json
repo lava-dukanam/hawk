@@ -25,6 +25,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/lava-envista/hawk.git"
+    "url": "git://github.com/lava-envista/hawk.git#1.4.3"
   }
 }
