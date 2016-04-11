@@ -1,11 +1,11 @@
 {
   "name": "hawk",
   "main": "dist/browser.js",
+  "version": "1.4.3",
   "license": "./LICENSE",
   "ignore": [
      "example",
      "images",
-     "lib",
      "test",
      ".eslintignore",
      ".gitignore",
