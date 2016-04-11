@@ -5,7 +5,6 @@
   "ignore": [
      "example",
      "images",
-     "lib",
      "test",
      ".eslintignore",
      ".gitignore",
