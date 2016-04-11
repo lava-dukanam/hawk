@@ -10,7 +10,7 @@
      ".gitignore",
      ".npmignore",
      ".travis.yml",
-     "client.js",,
+     "client.js",
     "!dist",
     "!dist/browser.js"
   ],
